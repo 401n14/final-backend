@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "transcribe-chat-server"
+  }
+}
